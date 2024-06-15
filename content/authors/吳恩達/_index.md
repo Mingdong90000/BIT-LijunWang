@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lijun Wang 王丽君
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lijun
+last_name: Wang
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - 王丽君
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.中国电影家协会理论评论委员会理事委员、Hans出版社国际开源期刊Art Research Letters学术杂志编委、建筑学会会员、中国电影美术学会会员、视效专业委员会会员、中国数字艺术专家委员会委员、亚洲动漫学会会员、全国高校艺术教育专家联盟主任委员、中关村科技园区石景山（游戏）园管委会特聘高校专家
 
 interests:
   - Artificial Intelligence
